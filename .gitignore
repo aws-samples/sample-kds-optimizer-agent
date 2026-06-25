@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+cdk.out/
+*.egg-info/
+.env
+node_modules/
+*.js
+!infra/cdk.json
+
+# Generated reports (these belong in S3, not source control)
+*.html
