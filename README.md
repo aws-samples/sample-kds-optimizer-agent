@@ -16,7 +16,7 @@ See [HOW_IT_WORKS.md](HOW_IT_WORKS.md) for a detailed step-by-step explanation o
 EventBridge Schedule (daily/weekly/custom)
     │
     ▼
-Scheduler Lambda ──► Bedrock Agent (Claude Sonnet 4.5)
+Scheduler Lambda ──► Bedrock Agent 
                           │
                           ▼
                      Action Group Lambda
